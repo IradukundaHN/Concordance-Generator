@@ -1,0 +1,4 @@
+Of course the student test created
+should pass
+at all for no reason
+in this project
